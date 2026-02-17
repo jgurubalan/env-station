@@ -1,0 +1,7 @@
+CALLSIGN = "VU24JD-13"
+PASSCODE = "24007"
+
+SERVER = "rotate.aprs2.net"
+PORT = 14580
+
+UPLOAD_INTERVAL_SECONDS = 600  # 10 minutes
