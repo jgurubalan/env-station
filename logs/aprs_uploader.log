@@ -13070,3 +13070,971 @@
 2026-02-17 13:18:37,430 - INFO - Connected to APRS-IS
 2026-02-17 13:18:37,430 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t085b10110 Station WX Pi
 2026-02-17 13:18:37,430 - INFO - Connection closed cleanly.
+2026-02-17 13:28:37,471 - INFO - Connecting to APRS-IS...
+2026-02-17 13:28:37,472 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 13:28:38,465 - INFO - Connected to ('91.210.59.134', 14580)
+2026-02-17 13:28:38,869 - INFO - Sending login information
+2026-02-17 13:28:39,245 - INFO - Login successful
+2026-02-17 13:28:39,245 - INFO - Connected to APRS-IS
+2026-02-17 13:28:39,245 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t085b10107 Station WX Pi
+2026-02-17 13:28:39,245 - INFO - Connection closed cleanly.
+2026-02-17 13:38:39,287 - INFO - Connecting to APRS-IS...
+2026-02-17 13:38:39,288 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 13:38:40,315 - INFO - Connected to ('146.83.63.90', 14580)
+2026-02-17 13:38:40,728 - INFO - Sending login information
+2026-02-17 13:38:41,141 - INFO - Login successful
+2026-02-17 13:38:41,142 - INFO - Connected to APRS-IS
+2026-02-17 13:38:41,142 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t085b10105 Station WX Pi
+2026-02-17 13:38:41,142 - INFO - Connection closed cleanly.
+2026-02-17 13:48:41,186 - INFO - Connecting to APRS-IS...
+2026-02-17 13:48:41,187 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 13:48:42,288 - INFO - Connected to ('175.45.183.111', 14580)
+2026-02-17 13:48:42,851 - INFO - Sending login information
+2026-02-17 13:48:43,402 - INFO - Login successful
+2026-02-17 13:48:43,402 - INFO - Connected to APRS-IS
+2026-02-17 13:48:43,403 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t085b10105 Station WX Pi
+2026-02-17 13:48:43,403 - INFO - Connection closed cleanly.
+2026-02-17 13:58:43,444 - INFO - Connecting to APRS-IS...
+2026-02-17 13:58:43,444 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 13:58:44,431 - INFO - Connected to ('185.162.236.244', 14580)
+2026-02-17 13:58:44,916 - INFO - Sending login information
+2026-02-17 13:58:45,338 - INFO - Login successful
+2026-02-17 13:58:45,338 - INFO - Connected to APRS-IS
+2026-02-17 13:58:45,338 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t085b10100 Station WX Pi
+2026-02-17 13:58:45,338 - INFO - Connection closed cleanly.
+2026-02-17 14:08:45,380 - INFO - Connecting to APRS-IS...
+2026-02-17 14:08:45,380 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 14:08:46,384 - INFO - Connected to ('91.210.59.134', 14580)
+2026-02-17 14:08:46,778 - INFO - Sending login information
+2026-02-17 14:08:47,165 - INFO - Login successful
+2026-02-17 14:08:47,165 - INFO - Connected to APRS-IS
+2026-02-17 14:08:47,165 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t085b10100 Station WX Pi
+2026-02-17 14:08:47,165 - INFO - Connection closed cleanly.
+2026-02-17 14:18:47,206 - INFO - Connecting to APRS-IS...
+2026-02-17 14:18:47,207 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 14:18:48,206 - INFO - Connected to ('84.232.6.113', 14580)
+2026-02-17 14:18:48,616 - INFO - Sending login information
+2026-02-17 14:18:49,004 - INFO - Login successful
+2026-02-17 14:18:49,004 - INFO - Connected to APRS-IS
+2026-02-17 14:18:49,004 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t086b10101 Station WX Pi
+2026-02-17 14:18:49,004 - INFO - Connection closed cleanly.
+2026-02-17 14:28:49,043 - INFO - Connecting to APRS-IS...
+2026-02-17 14:28:49,043 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 14:28:49,926 - INFO - Connected to ('142.44.211.133', 14580)
+2026-02-17 14:28:50,213 - INFO - Sending login information
+2026-02-17 14:28:50,503 - INFO - Login successful
+2026-02-17 14:28:50,503 - INFO - Connected to APRS-IS
+2026-02-17 14:28:50,503 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t086b10100 Station WX Pi
+2026-02-17 14:28:50,503 - INFO - Connection closed cleanly.
+2026-02-17 14:38:50,542 - INFO - Connecting to APRS-IS...
+2026-02-17 14:38:50,542 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 14:38:51,518 - INFO - Connected to ('109.72.122.50', 14580)
+2026-02-17 14:38:51,929 - INFO - Sending login information
+2026-02-17 14:38:52,329 - INFO - Login successful
+2026-02-17 14:38:52,329 - INFO - Connected to APRS-IS
+2026-02-17 14:38:52,329 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t086b10096 Station WX Pi
+2026-02-17 14:38:52,329 - INFO - Connection closed cleanly.
+2026-02-17 14:48:52,372 - INFO - Connecting to APRS-IS...
+2026-02-17 14:48:52,372 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 14:48:53,355 - INFO - Connected to ('86.123.190.5', 14580)
+2026-02-17 14:48:53,761 - INFO - Sending login information
+2026-02-17 14:48:54,161 - INFO - Login successful
+2026-02-17 14:48:54,161 - INFO - Connected to APRS-IS
+2026-02-17 14:48:54,161 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t086b10097 Station WX Pi
+2026-02-17 14:48:54,161 - INFO - Connection closed cleanly.
+2026-02-17 14:58:54,202 - INFO - Connecting to APRS-IS...
+2026-02-17 14:58:54,202 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 14:58:55,053 - INFO - Connected to ('155.138.131.1', 14580)
+2026-02-17 14:58:55,359 - INFO - Sending login information
+2026-02-17 14:58:55,635 - INFO - Login successful
+2026-02-17 14:58:55,635 - INFO - Connected to APRS-IS
+2026-02-17 14:58:55,636 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t086b10098 Station WX Pi
+2026-02-17 14:58:55,636 - INFO - Connection closed cleanly.
+2026-02-17 15:08:55,677 - INFO - Connecting to APRS-IS...
+2026-02-17 15:08:55,677 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 15:08:56,734 - INFO - Connected to ('109.207.104.90', 14580)
+2026-02-17 15:08:57,160 - INFO - Sending login information
+2026-02-17 15:08:57,704 - INFO - Login successful
+2026-02-17 15:08:57,704 - INFO - Connected to APRS-IS
+2026-02-17 15:08:57,705 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t086b10099 Station WX Pi
+2026-02-17 15:08:57,705 - INFO - Connection closed cleanly.
+2026-02-17 15:18:57,744 - INFO - Connecting to APRS-IS...
+2026-02-17 15:18:57,744 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 15:19:01,593 - INFO - Connected to ('150.107.73.187', 14580)
+2026-02-17 15:19:02,206 - INFO - Sending login information
+2026-02-17 15:19:02,754 - INFO - Login successful
+2026-02-17 15:19:02,754 - INFO - Connected to APRS-IS
+2026-02-17 15:19:02,755 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t086b10097 Station WX Pi
+2026-02-17 15:19:02,755 - INFO - Connection closed cleanly.
+2026-02-17 15:29:02,810 - INFO - Connecting to APRS-IS...
+2026-02-17 15:29:02,810 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 15:29:05,523 - INFO - Connected to ('86.123.190.5', 14580)
+2026-02-17 15:29:05,965 - INFO - Sending login information
+2026-02-17 15:29:10,405 - INFO - Login successful
+2026-02-17 15:29:10,405 - INFO - Connected to APRS-IS
+2026-02-17 15:29:10,405 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t086b10097 Station WX Pi
+2026-02-17 15:29:10,405 - INFO - Connection closed cleanly.
+2026-02-17 15:39:10,444 - INFO - Connecting to APRS-IS...
+2026-02-17 15:39:10,445 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 15:39:11,754 - INFO - Connected to ('192.146.137.137', 14580)
+2026-02-17 15:39:12,216 - INFO - Sending login information
+2026-02-17 15:39:12,676 - INFO - Login successful
+2026-02-17 15:39:12,676 - INFO - Connected to APRS-IS
+2026-02-17 15:39:12,676 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t086b10099 Station WX Pi
+2026-02-17 15:39:12,676 - INFO - Connection closed cleanly.
+2026-02-17 15:49:12,717 - INFO - Connecting to APRS-IS...
+2026-02-17 15:49:12,718 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 15:49:15,352 - INFO - Connected to ('175.45.183.111', 14580)
+2026-02-17 15:49:15,966 - INFO - Sending login information
+2026-02-17 15:49:16,578 - INFO - Login successful
+2026-02-17 15:49:16,578 - INFO - Connected to APRS-IS
+2026-02-17 15:49:16,579 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t086b10096 Station WX Pi
+2026-02-17 15:49:16,579 - INFO - Connection closed cleanly.
+2026-02-17 15:59:16,619 - INFO - Connecting to APRS-IS...
+2026-02-17 15:59:16,619 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 15:59:17,625 - INFO - Connected to ('86.123.190.5', 14580)
+2026-02-17 15:59:18,037 - INFO - Sending login information
+2026-02-17 15:59:18,441 - INFO - Login successful
+2026-02-17 15:59:18,441 - INFO - Connected to APRS-IS
+2026-02-17 15:59:18,441 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t086b10098 Station WX Pi
+2026-02-17 15:59:18,441 - INFO - Connection closed cleanly.
+2026-02-17 16:09:18,481 - INFO - Connecting to APRS-IS...
+2026-02-17 16:09:18,482 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 16:09:19,452 - INFO - Connected to ('146.83.63.90', 14580)
+2026-02-17 16:09:19,884 - INFO - Sending login information
+2026-02-17 16:09:20,289 - INFO - Login successful
+2026-02-17 16:09:20,289 - INFO - Connected to APRS-IS
+2026-02-17 16:09:20,289 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t085b10097 Station WX Pi
+2026-02-17 16:09:20,289 - INFO - Connection closed cleanly.
+2026-02-17 16:19:20,329 - INFO - Connecting to APRS-IS...
+2026-02-17 16:19:20,329 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 16:19:21,450 - INFO - Connected to ('150.107.73.187', 14580)
+2026-02-17 16:19:22,022 - INFO - Sending login information
+2026-02-17 16:19:22,569 - INFO - Login successful
+2026-02-17 16:19:22,569 - INFO - Connected to APRS-IS
+2026-02-17 16:19:22,569 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t086b10098 Station WX Pi
+2026-02-17 16:19:22,569 - INFO - Connection closed cleanly.
+2026-02-17 16:29:22,607 - INFO - Connecting to APRS-IS...
+2026-02-17 16:29:22,607 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 16:29:23,459 - INFO - Connected to ('155.138.131.1', 14580)
+2026-02-17 16:29:23,751 - INFO - Sending login information
+2026-02-17 16:29:24,027 - INFO - Login successful
+2026-02-17 16:29:24,027 - INFO - Connected to APRS-IS
+2026-02-17 16:29:24,027 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t085b10098 Station WX Pi
+2026-02-17 16:29:24,027 - INFO - Connection closed cleanly.
+2026-02-17 16:39:24,069 - INFO - Connecting to APRS-IS...
+2026-02-17 16:39:24,069 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 16:39:25,054 - INFO - Connected to ('84.232.6.113', 14580)
+2026-02-17 16:39:25,439 - INFO - Sending login information
+2026-02-17 16:39:25,824 - INFO - Login successful
+2026-02-17 16:39:25,824 - INFO - Connected to APRS-IS
+2026-02-17 16:39:25,825 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t085b10097 Station WX Pi
+2026-02-17 16:39:25,825 - INFO - Connection closed cleanly.
+2026-02-17 16:49:25,866 - INFO - Connecting to APRS-IS...
+2026-02-17 16:49:25,866 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 16:49:26,997 - INFO - Connected to ('175.45.183.111', 14580)
+2026-02-17 16:49:27,577 - INFO - Sending login information
+2026-02-17 16:49:28,134 - INFO - Login successful
+2026-02-17 16:49:28,134 - INFO - Connected to APRS-IS
+2026-02-17 16:49:28,135 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t085b10098 Station WX Pi
+2026-02-17 16:49:28,135 - INFO - Connection closed cleanly.
+2026-02-17 16:59:28,173 - INFO - Connecting to APRS-IS...
+2026-02-17 16:59:28,173 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 16:59:29,036 - INFO - Connected to ('142.44.211.133', 14580)
+2026-02-17 16:59:29,347 - INFO - Sending login information
+2026-02-17 16:59:29,630 - INFO - Login successful
+2026-02-17 16:59:29,630 - INFO - Connected to APRS-IS
+2026-02-17 16:59:29,631 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t085b10099 Station WX Pi
+2026-02-17 16:59:29,631 - INFO - Connection closed cleanly.
+2026-02-17 17:09:29,674 - INFO - Connecting to APRS-IS...
+2026-02-17 17:09:29,675 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 17:09:30,804 - INFO - Connected to ('175.45.183.111', 14580)
+2026-02-17 17:09:31,368 - INFO - Sending login information
+2026-02-17 17:09:31,925 - INFO - Login successful
+2026-02-17 17:09:31,925 - INFO - Connected to APRS-IS
+2026-02-17 17:09:31,926 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t085b10098 Station WX Pi
+2026-02-17 17:09:31,926 - INFO - Connection closed cleanly.
+2026-02-17 17:19:31,969 - INFO - Connecting to APRS-IS...
+2026-02-17 17:19:31,969 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 17:19:33,090 - INFO - Connected to ('150.107.73.187', 14580)
+2026-02-17 17:19:33,665 - INFO - Sending login information
+2026-02-17 17:19:34,222 - INFO - Login successful
+2026-02-17 17:19:34,222 - INFO - Connected to APRS-IS
+2026-02-17 17:19:34,222 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t085b10100 Station WX Pi
+2026-02-17 17:19:34,223 - INFO - Connection closed cleanly.
+2026-02-17 17:29:34,266 - INFO - Connecting to APRS-IS...
+2026-02-17 17:29:34,266 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 17:29:35,425 - INFO - Connected to ('150.107.73.187', 14580)
+2026-02-17 17:29:35,990 - INFO - Sending login information
+2026-02-17 17:29:36,548 - INFO - Login successful
+2026-02-17 17:29:36,548 - INFO - Connected to APRS-IS
+2026-02-17 17:29:36,548 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t085b10102 Station WX Pi
+2026-02-17 17:29:36,548 - INFO - Connection closed cleanly.
+2026-02-17 17:39:36,590 - INFO - Connecting to APRS-IS...
+2026-02-17 17:39:36,591 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 17:39:37,549 - INFO - Connected to ('86.123.190.5', 14580)
+2026-02-17 17:39:37,970 - INFO - Sending login information
+2026-02-17 17:39:38,366 - INFO - Login successful
+2026-02-17 17:39:38,366 - INFO - Connected to APRS-IS
+2026-02-17 17:39:38,366 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t085b10102 Station WX Pi
+2026-02-17 17:39:38,366 - INFO - Connection closed cleanly.
+2026-02-17 17:49:38,413 - INFO - Connecting to APRS-IS...
+2026-02-17 17:49:38,413 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 17:49:39,380 - INFO - Connected to ('146.83.63.90', 14580)
+2026-02-17 17:49:39,792 - INFO - Sending login information
+2026-02-17 17:49:40,197 - INFO - Login successful
+2026-02-17 17:49:40,197 - INFO - Connected to APRS-IS
+2026-02-17 17:49:40,197 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t085b10104 Station WX Pi
+2026-02-17 17:49:40,197 - INFO - Connection closed cleanly.
+2026-02-17 17:59:40,241 - INFO - Connecting to APRS-IS...
+2026-02-17 17:59:40,241 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 17:59:41,362 - INFO - Connected to ('150.107.73.187', 14580)
+2026-02-17 17:59:41,941 - INFO - Sending login information
+2026-02-17 17:59:42,500 - INFO - Login successful
+2026-02-17 17:59:42,500 - INFO - Connected to APRS-IS
+2026-02-17 17:59:42,500 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t085b10105 Station WX Pi
+2026-02-17 17:59:42,500 - INFO - Connection closed cleanly.
+2026-02-17 18:09:42,544 - INFO - Connecting to APRS-IS...
+2026-02-17 18:09:42,544 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 18:09:43,519 - INFO - Connected to ('146.83.63.90', 14580)
+2026-02-17 18:09:43,924 - INFO - Sending login information
+2026-02-17 18:09:44,327 - INFO - Login successful
+2026-02-17 18:09:44,327 - INFO - Connected to APRS-IS
+2026-02-17 18:09:44,328 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t085b10107 Station WX Pi
+2026-02-17 18:09:44,328 - INFO - Connection closed cleanly.
+2026-02-17 18:19:44,377 - INFO - Connecting to APRS-IS...
+2026-02-17 18:19:44,377 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 18:19:45,388 - INFO - Connected to ('86.123.190.5', 14580)
+2026-02-17 18:19:45,811 - INFO - Sending login information
+2026-02-17 18:19:46,213 - INFO - Login successful
+2026-02-17 18:19:46,214 - INFO - Connected to APRS-IS
+2026-02-17 18:19:46,214 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t085b10110 Station WX Pi
+2026-02-17 18:19:46,214 - INFO - Connection closed cleanly.
+2026-02-17 18:29:46,253 - INFO - Connecting to APRS-IS...
+2026-02-17 18:29:46,254 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 18:29:47,233 - INFO - Connected to ('146.83.63.90', 14580)
+2026-02-17 18:29:47,658 - INFO - Sending login information
+2026-02-17 18:29:48,065 - INFO - Login successful
+2026-02-17 18:29:48,065 - INFO - Connected to APRS-IS
+2026-02-17 18:29:48,065 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t085b10105 Station WX Pi
+2026-02-17 18:29:48,065 - INFO - Connection closed cleanly.
+2026-02-17 18:39:48,106 - INFO - Connecting to APRS-IS...
+2026-02-17 18:39:48,107 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 18:39:49,073 - INFO - Connected to ('85.90.180.26', 14580)
+2026-02-17 18:39:49,481 - INFO - Sending login information
+2026-02-17 18:39:49,873 - INFO - Login successful
+2026-02-17 18:39:49,873 - INFO - Connected to APRS-IS
+2026-02-17 18:39:49,873 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t085b10107 Station WX Pi
+2026-02-17 18:39:49,873 - INFO - Connection closed cleanly.
+2026-02-17 18:49:49,912 - INFO - Connecting to APRS-IS...
+2026-02-17 18:49:49,913 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 18:49:50,866 - INFO - Connected to ('85.90.180.26', 14580)
+2026-02-17 18:49:51,259 - INFO - Sending login information
+2026-02-17 18:49:51,651 - INFO - Login successful
+2026-02-17 18:49:51,652 - INFO - Connected to APRS-IS
+2026-02-17 18:49:51,652 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t085b10110 Station WX Pi
+2026-02-17 18:49:51,652 - INFO - Connection closed cleanly.
+2026-02-17 18:59:51,693 - INFO - Connecting to APRS-IS...
+2026-02-17 18:59:51,693 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 18:59:52,648 - INFO - Connected to ('142.44.211.133', 14580)
+2026-02-17 18:59:52,953 - INFO - Sending login information
+2026-02-17 18:59:53,258 - INFO - Login successful
+2026-02-17 18:59:53,258 - INFO - Connected to APRS-IS
+2026-02-17 18:59:53,258 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t085b10109 Station WX Pi
+2026-02-17 18:59:53,259 - INFO - Connection closed cleanly.
+2026-02-17 19:09:53,300 - INFO - Connecting to APRS-IS...
+2026-02-17 19:09:53,300 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 19:09:55,868 - INFO - Connected to ('146.83.63.90', 14580)
+2026-02-17 19:09:56,324 - INFO - Sending login information
+2026-02-17 19:09:56,782 - INFO - Login successful
+2026-02-17 19:09:56,782 - INFO - Connected to APRS-IS
+2026-02-17 19:09:56,782 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t085b10112 Station WX Pi
+2026-02-17 19:09:56,782 - INFO - Connection closed cleanly.
+2026-02-17 19:19:56,821 - INFO - Connecting to APRS-IS...
+2026-02-17 19:19:56,821 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 19:19:57,792 - INFO - Connected to ('109.72.122.50', 14580)
+2026-02-17 19:19:58,205 - INFO - Sending login information
+2026-02-17 19:19:58,604 - INFO - Login successful
+2026-02-17 19:19:58,604 - INFO - Connected to APRS-IS
+2026-02-17 19:19:58,604 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t085b10111 Station WX Pi
+2026-02-17 19:19:58,604 - INFO - Connection closed cleanly.
+2026-02-17 19:29:58,642 - INFO - Connecting to APRS-IS...
+2026-02-17 19:29:58,642 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 19:29:59,609 - INFO - Connected to ('84.232.6.113', 14580)
+2026-02-17 19:30:00,017 - INFO - Sending login information
+2026-02-17 19:30:00,407 - INFO - Login successful
+2026-02-17 19:30:00,407 - INFO - Connected to APRS-IS
+2026-02-17 19:30:00,407 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t085b10114 Station WX Pi
+2026-02-17 19:30:00,408 - INFO - Connection closed cleanly.
+2026-02-17 19:40:00,447 - INFO - Connecting to APRS-IS...
+2026-02-17 19:40:00,447 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 19:40:01,438 - INFO - Connected to ('109.207.104.90', 14580)
+2026-02-17 19:40:01,869 - INFO - Sending login information
+2026-02-17 19:40:02,286 - INFO - Login successful
+2026-02-17 19:40:02,286 - INFO - Connected to APRS-IS
+2026-02-17 19:40:02,286 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t085b10115 Station WX Pi
+2026-02-17 19:40:02,286 - INFO - Connection closed cleanly.
+2026-02-17 19:50:02,324 - INFO - Connecting to APRS-IS...
+2026-02-17 19:50:02,325 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 19:50:03,450 - INFO - Connected to ('175.45.183.111', 14580)
+2026-02-17 19:50:04,015 - INFO - Sending login information
+2026-02-17 19:50:04,563 - INFO - Login successful
+2026-02-17 19:50:04,563 - INFO - Connected to APRS-IS
+2026-02-17 19:50:04,564 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t085b10117 Station WX Pi
+2026-02-17 19:50:04,564 - INFO - Connection closed cleanly.
+2026-02-17 20:00:04,601 - INFO - Connecting to APRS-IS...
+2026-02-17 20:00:04,601 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 20:00:05,604 - INFO - Connected to ('84.232.6.113', 14580)
+2026-02-17 20:00:05,997 - INFO - Sending login information
+2026-02-17 20:00:06,395 - INFO - Login successful
+2026-02-17 20:00:06,396 - INFO - Connected to APRS-IS
+2026-02-17 20:00:06,396 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t085b10117 Station WX Pi
+2026-02-17 20:00:06,404 - INFO - Connection closed cleanly.
+2026-02-17 20:10:06,443 - INFO - Connecting to APRS-IS...
+2026-02-17 20:10:06,443 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 20:10:07,383 - INFO - Connected to ('84.232.6.113', 14580)
+2026-02-17 20:10:07,766 - INFO - Sending login information
+2026-02-17 20:10:08,146 - INFO - Login successful
+2026-02-17 20:10:08,146 - INFO - Connected to APRS-IS
+2026-02-17 20:10:08,146 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t085b10119 Station WX Pi
+2026-02-17 20:10:08,146 - INFO - Connection closed cleanly.
+2026-02-17 20:20:08,185 - INFO - Connecting to APRS-IS...
+2026-02-17 20:20:08,185 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 20:20:09,172 - INFO - Connected to ('85.188.1.129', 14580)
+2026-02-17 20:20:09,599 - INFO - Sending login information
+2026-02-17 20:20:10,003 - INFO - Login successful
+2026-02-17 20:20:10,003 - INFO - Connected to APRS-IS
+2026-02-17 20:20:10,003 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t085b10117 Station WX Pi
+2026-02-17 20:20:10,003 - INFO - Connection closed cleanly.
+2026-02-17 20:30:10,041 - INFO - Connecting to APRS-IS...
+2026-02-17 20:30:10,042 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 20:30:10,999 - INFO - Connected to ('86.123.190.5', 14580)
+2026-02-17 20:30:11,429 - INFO - Sending login information
+2026-02-17 20:30:11,826 - INFO - Login successful
+2026-02-17 20:30:11,826 - INFO - Connected to APRS-IS
+2026-02-17 20:30:11,826 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t085b10121 Station WX Pi
+2026-02-17 20:30:11,826 - INFO - Connection closed cleanly.
+2026-02-17 20:40:11,866 - INFO - Connecting to APRS-IS...
+2026-02-17 20:40:11,866 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 20:40:12,825 - INFO - Connected to ('85.90.180.26', 14580)
+2026-02-17 20:40:13,223 - INFO - Sending login information
+2026-02-17 20:40:13,611 - INFO - Login successful
+2026-02-17 20:40:13,611 - INFO - Connected to APRS-IS
+2026-02-17 20:40:13,611 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t085b10121 Station WX Pi
+2026-02-17 20:40:13,611 - INFO - Connection closed cleanly.
+2026-02-17 20:50:13,652 - INFO - Connecting to APRS-IS...
+2026-02-17 20:50:13,653 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 20:50:14,613 - INFO - Connected to ('146.83.63.90', 14580)
+2026-02-17 20:50:15,029 - INFO - Sending login information
+2026-02-17 20:50:15,434 - INFO - Login successful
+2026-02-17 20:50:15,434 - INFO - Connected to APRS-IS
+2026-02-17 20:50:15,434 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t085b10123 Station WX Pi
+2026-02-17 20:50:15,435 - INFO - Connection closed cleanly.
+2026-02-17 21:00:15,475 - INFO - Connecting to APRS-IS...
+2026-02-17 21:00:15,476 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 21:00:16,455 - INFO - Connected to ('195.190.142.207', 14580)
+2026-02-17 21:00:16,850 - INFO - Sending login information
+2026-02-17 21:00:17,241 - INFO - Login successful
+2026-02-17 21:00:17,241 - INFO - Connected to APRS-IS
+2026-02-17 21:00:17,242 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t085b10122 Station WX Pi
+2026-02-17 21:00:17,242 - INFO - Connection closed cleanly.
+2026-02-17 21:10:17,282 - INFO - Connecting to APRS-IS...
+2026-02-17 21:10:17,282 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 21:10:18,232 - INFO - Connected to ('85.90.180.26', 14580)
+2026-02-17 21:10:18,642 - INFO - Sending login information
+2026-02-17 21:10:19,032 - INFO - Login successful
+2026-02-17 21:10:19,032 - INFO - Connected to APRS-IS
+2026-02-17 21:10:19,033 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t085b10126 Station WX Pi
+2026-02-17 21:10:19,033 - INFO - Connection closed cleanly.
+2026-02-17 21:20:19,074 - INFO - Connecting to APRS-IS...
+2026-02-17 21:20:19,075 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 21:20:20,199 - INFO - Connected to ('150.107.73.187', 14580)
+2026-02-17 21:20:20,765 - INFO - Sending login information
+2026-02-17 21:20:21,313 - INFO - Login successful
+2026-02-17 21:20:21,313 - INFO - Connected to APRS-IS
+2026-02-17 21:20:21,314 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t085b10126 Station WX Pi
+2026-02-17 21:20:21,314 - INFO - Connection closed cleanly.
+2026-02-17 21:30:21,365 - INFO - Connecting to APRS-IS...
+2026-02-17 21:30:21,365 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 21:30:22,481 - INFO - Connected to ('175.45.183.111', 14580)
+2026-02-17 21:30:23,035 - INFO - Sending login information
+2026-02-17 21:30:23,581 - INFO - Login successful
+2026-02-17 21:30:23,581 - INFO - Connected to APRS-IS
+2026-02-17 21:30:23,581 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t085b10125 Station WX Pi
+2026-02-17 21:30:23,581 - INFO - Connection closed cleanly.
+2026-02-17 21:40:23,624 - INFO - Connecting to APRS-IS...
+2026-02-17 21:40:23,624 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 21:40:24,748 - INFO - Connected to ('150.107.73.187', 14580)
+2026-02-17 21:40:25,309 - INFO - Sending login information
+2026-02-17 21:40:25,852 - INFO - Login successful
+2026-02-17 21:40:25,853 - INFO - Connected to APRS-IS
+2026-02-17 21:40:25,853 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t085b10128 Station WX Pi
+2026-02-17 21:40:25,853 - INFO - Connection closed cleanly.
+2026-02-17 21:50:25,898 - INFO - Connecting to APRS-IS...
+2026-02-17 21:50:25,898 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 21:50:27,027 - INFO - Connected to ('150.107.73.187', 14580)
+2026-02-17 21:50:27,600 - INFO - Sending login information
+2026-02-17 21:50:28,148 - INFO - Login successful
+2026-02-17 21:50:28,148 - INFO - Connected to APRS-IS
+2026-02-17 21:50:28,148 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t085b10125 Station WX Pi
+2026-02-17 21:50:28,149 - INFO - Connection closed cleanly.
+2026-02-17 22:00:28,193 - INFO - Connecting to APRS-IS...
+2026-02-17 22:00:28,193 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 22:00:29,411 - INFO - Connected to ('155.138.131.1', 14580)
+2026-02-17 22:00:29,703 - INFO - Sending login information
+2026-02-17 22:00:29,980 - INFO - Login successful
+2026-02-17 22:00:29,980 - INFO - Connected to APRS-IS
+2026-02-17 22:00:29,980 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t084b10126 Station WX Pi
+2026-02-17 22:00:29,980 - INFO - Connection closed cleanly.
+2026-02-17 22:10:30,025 - INFO - Connecting to APRS-IS...
+2026-02-17 22:10:30,025 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 22:10:31,096 - INFO - Connected to ('86.123.190.5', 14580)
+2026-02-17 22:10:31,500 - INFO - Sending login information
+2026-02-17 22:10:31,898 - INFO - Login successful
+2026-02-17 22:10:31,899 - INFO - Connected to APRS-IS
+2026-02-17 22:10:31,899 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t084b10127 Station WX Pi
+2026-02-17 22:10:31,899 - INFO - Connection closed cleanly.
+2026-02-17 22:20:31,943 - INFO - Connecting to APRS-IS...
+2026-02-17 22:20:31,943 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 22:20:34,261 - INFO - Connected to ('84.232.6.113', 14580)
+2026-02-17 22:20:34,703 - INFO - Sending login information
+2026-02-17 22:20:35,157 - INFO - Login successful
+2026-02-17 22:20:35,158 - INFO - Connected to APRS-IS
+2026-02-17 22:20:35,158 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t084b10127 Station WX Pi
+2026-02-17 22:20:35,158 - INFO - Connection closed cleanly.
+2026-02-17 22:30:35,198 - INFO - Connecting to APRS-IS...
+2026-02-17 22:30:35,198 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 22:30:37,816 - INFO - Connected to ('175.45.183.111', 14580)
+2026-02-17 22:30:38,397 - INFO - Sending login information
+2026-02-17 22:30:39,003 - INFO - Login successful
+2026-02-17 22:30:39,004 - INFO - Connected to APRS-IS
+2026-02-17 22:30:39,004 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t084b10124 Station WX Pi
+2026-02-17 22:30:39,004 - INFO - Connection closed cleanly.
+2026-02-17 22:40:39,046 - INFO - Connecting to APRS-IS...
+2026-02-17 22:40:39,046 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 22:40:39,905 - INFO - Connected to ('142.44.211.133', 14580)
+2026-02-17 22:40:40,213 - INFO - Sending login information
+2026-02-17 22:40:40,498 - INFO - Login successful
+2026-02-17 22:40:40,498 - INFO - Connected to APRS-IS
+2026-02-17 22:40:40,498 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t083b10125 Station WX Pi
+2026-02-17 22:40:40,498 - INFO - Connection closed cleanly.
+2026-02-17 22:50:40,538 - INFO - Connecting to APRS-IS...
+2026-02-17 22:50:40,538 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 22:50:41,666 - INFO - Connected to ('150.107.73.187', 14580)
+2026-02-17 22:50:42,246 - INFO - Sending login information
+2026-02-17 22:50:42,816 - INFO - Login successful
+2026-02-17 22:50:42,816 - INFO - Connected to APRS-IS
+2026-02-17 22:50:42,816 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t083b10123 Station WX Pi
+2026-02-17 22:50:42,816 - INFO - Connection closed cleanly.
+2026-02-17 23:00:42,856 - INFO - Connecting to APRS-IS...
+2026-02-17 23:00:42,857 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 23:00:43,864 - INFO - Connected to ('130.162.208.180', 14580)
+2026-02-17 23:00:44,241 - INFO - Sending login information
+2026-02-17 23:00:44,609 - INFO - Login successful
+2026-02-17 23:00:44,609 - INFO - Connected to APRS-IS
+2026-02-17 23:00:44,609 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t082b10122 Station WX Pi
+2026-02-17 23:00:44,609 - INFO - Connection closed cleanly.
+2026-02-17 23:10:44,651 - INFO - Connecting to APRS-IS...
+2026-02-17 23:10:44,651 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 23:10:45,627 - INFO - Connected to ('86.123.190.5', 14580)
+2026-02-17 23:10:46,041 - INFO - Sending login information
+2026-02-17 23:10:46,437 - INFO - Login successful
+2026-02-17 23:10:46,438 - INFO - Connected to APRS-IS
+2026-02-17 23:10:46,438 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t082b10122 Station WX Pi
+2026-02-17 23:10:46,438 - INFO - Connection closed cleanly.
+2026-02-17 23:20:46,477 - INFO - Connecting to APRS-IS...
+2026-02-17 23:20:46,477 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 23:20:47,331 - INFO - Connected to ('142.44.211.133', 14580)
+2026-02-17 23:20:47,632 - INFO - Sending login information
+2026-02-17 23:20:47,918 - INFO - Login successful
+2026-02-17 23:20:47,918 - INFO - Connected to APRS-IS
+2026-02-17 23:20:47,918 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t082b10120 Station WX Pi
+2026-02-17 23:20:47,918 - INFO - Connection closed cleanly.
+2026-02-17 23:30:47,960 - INFO - Connecting to APRS-IS...
+2026-02-17 23:30:47,961 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 23:30:48,927 - INFO - Connected to ('91.210.59.134', 14580)
+2026-02-17 23:30:49,334 - INFO - Sending login information
+2026-02-17 23:30:49,722 - INFO - Login successful
+2026-02-17 23:30:49,722 - INFO - Connected to APRS-IS
+2026-02-17 23:30:49,723 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t082b10119 Station WX Pi
+2026-02-17 23:30:49,723 - INFO - Connection closed cleanly.
+2026-02-17 23:40:49,762 - INFO - Connecting to APRS-IS...
+2026-02-17 23:40:49,763 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 23:40:50,838 - INFO - Connected to ('185.162.236.244', 14580)
+2026-02-17 23:40:51,256 - INFO - Sending login information
+2026-02-17 23:40:51,666 - INFO - Login successful
+2026-02-17 23:40:51,666 - INFO - Connected to APRS-IS
+2026-02-17 23:40:51,667 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t081b10117 Station WX Pi
+2026-02-17 23:40:51,667 - INFO - Connection closed cleanly.
+2026-02-17 23:50:51,709 - INFO - Connecting to APRS-IS...
+2026-02-17 23:50:51,709 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-17 23:50:52,666 - INFO - Connected to ('91.210.59.134', 14580)
+2026-02-17 23:50:53,076 - INFO - Sending login information
+2026-02-17 23:50:53,462 - INFO - Login successful
+2026-02-17 23:50:53,462 - INFO - Connected to APRS-IS
+2026-02-17 23:50:53,462 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t081b10116 Station WX Pi
+2026-02-17 23:50:53,462 - INFO - Connection closed cleanly.
+2026-02-18 00:00:53,504 - INFO - Connecting to APRS-IS...
+2026-02-18 00:00:53,504 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-18 00:00:54,347 - INFO - Connected to ('155.138.131.1', 14580)
+2026-02-18 00:00:54,633 - INFO - Sending login information
+2026-02-18 00:00:54,913 - INFO - Login successful
+2026-02-18 00:00:54,913 - INFO - Connected to APRS-IS
+2026-02-18 00:00:54,913 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t081b10116 Station WX Pi
+2026-02-18 00:00:54,913 - INFO - Connection closed cleanly.
+2026-02-18 00:10:54,954 - INFO - Connecting to APRS-IS...
+2026-02-18 00:10:54,954 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-18 00:10:55,927 - INFO - Connected to ('84.232.6.113', 14580)
+2026-02-18 00:10:56,320 - INFO - Sending login information
+2026-02-18 00:10:56,706 - INFO - Login successful
+2026-02-18 00:10:56,706 - INFO - Connected to APRS-IS
+2026-02-18 00:10:56,707 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t081b10115 Station WX Pi
+2026-02-18 00:10:56,707 - INFO - Connection closed cleanly.
+2026-02-18 00:20:56,750 - INFO - Connecting to APRS-IS...
+2026-02-18 00:20:56,750 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-18 00:20:57,876 - INFO - Connected to ('175.45.183.111', 14580)
+2026-02-18 00:20:58,463 - INFO - Sending login information
+2026-02-18 00:20:59,023 - INFO - Login successful
+2026-02-18 00:20:59,023 - INFO - Connected to APRS-IS
+2026-02-18 00:20:59,024 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t082b10115 Station WX Pi
+2026-02-18 00:20:59,024 - INFO - Connection closed cleanly.
+2026-02-18 00:30:59,067 - INFO - Connecting to APRS-IS...
+2026-02-18 00:30:59,068 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-18 00:31:00,022 - INFO - Connected to ('84.232.6.113', 14580)
+2026-02-18 00:31:00,433 - INFO - Sending login information
+2026-02-18 00:31:00,817 - INFO - Login successful
+2026-02-18 00:31:00,817 - INFO - Connected to APRS-IS
+2026-02-18 00:31:00,817 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t082b10115 Station WX Pi
+2026-02-18 00:31:00,817 - INFO - Connection closed cleanly.
+2026-02-18 00:41:00,858 - INFO - Connecting to APRS-IS...
+2026-02-18 00:41:00,858 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-18 00:41:01,846 - INFO - Connected to ('109.207.104.90', 14580)
+2026-02-18 00:41:02,290 - INFO - Sending login information
+2026-02-18 00:41:02,715 - INFO - Login successful
+2026-02-18 00:41:02,716 - INFO - Connected to APRS-IS
+2026-02-18 00:41:02,716 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t082b10114 Station WX Pi
+2026-02-18 00:41:02,716 - INFO - Connection closed cleanly.
+2026-02-18 00:51:02,758 - INFO - Connecting to APRS-IS...
+2026-02-18 00:51:02,758 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-18 00:51:03,699 - INFO - Connected to ('57.128.11.1', 14580)
+2026-02-18 00:51:04,080 - INFO - Sending login information
+2026-02-18 00:51:04,456 - INFO - Login successful
+2026-02-18 00:51:04,456 - INFO - Connected to APRS-IS
+2026-02-18 00:51:04,456 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t082b10113 Station WX Pi
+2026-02-18 00:51:04,456 - INFO - Connection closed cleanly.
+2026-02-18 01:01:04,496 - INFO - Connecting to APRS-IS...
+2026-02-18 01:01:04,496 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-18 01:01:05,350 - INFO - Connected to ('142.44.211.133', 14580)
+2026-02-18 01:01:05,665 - INFO - Sending login information
+2026-02-18 01:01:05,952 - INFO - Login successful
+2026-02-18 01:01:05,952 - INFO - Connected to APRS-IS
+2026-02-18 01:01:05,952 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t082b10110 Station WX Pi
+2026-02-18 01:01:05,952 - INFO - Connection closed cleanly.
+2026-02-18 01:11:05,992 - INFO - Connecting to APRS-IS...
+2026-02-18 01:11:05,992 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-18 01:11:06,936 - INFO - Connected to ('173.212.223.187', 14580)
+2026-02-18 01:11:07,335 - INFO - Sending login information
+2026-02-18 01:11:07,712 - INFO - Login successful
+2026-02-18 01:11:07,712 - INFO - Connected to APRS-IS
+2026-02-18 01:11:07,712 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t082b10109 Station WX Pi
+2026-02-18 01:11:07,712 - INFO - Connection closed cleanly.
+2026-02-18 01:21:07,752 - INFO - Connecting to APRS-IS...
+2026-02-18 01:21:07,752 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-18 01:21:08,899 - INFO - Connected to ('175.45.183.111', 14580)
+2026-02-18 01:21:09,463 - INFO - Sending login information
+2026-02-18 01:21:10,008 - INFO - Login successful
+2026-02-18 01:21:10,008 - INFO - Connected to APRS-IS
+2026-02-18 01:21:10,009 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t082b10108 Station WX Pi
+2026-02-18 01:21:10,009 - INFO - Connection closed cleanly.
+2026-02-18 01:31:10,051 - INFO - Connecting to APRS-IS...
+2026-02-18 01:31:10,051 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-18 01:31:11,510 - INFO - Connected to ('146.83.63.90', 14580)
+2026-02-18 01:31:11,969 - INFO - Sending login information
+2026-02-18 01:31:12,577 - INFO - Login successful
+2026-02-18 01:31:12,577 - INFO - Connected to APRS-IS
+2026-02-18 01:31:12,577 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t082b10106 Station WX Pi
+2026-02-18 01:31:12,577 - INFO - Connection closed cleanly.
+2026-02-18 01:41:12,616 - INFO - Connecting to APRS-IS...
+2026-02-18 01:41:12,616 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-18 01:41:13,573 - INFO - Connected to ('185.43.207.219', 14580)
+2026-02-18 01:41:15,328 - INFO - Sending login information
+2026-02-18 01:41:15,783 - INFO - Login successful
+2026-02-18 01:41:15,784 - INFO - Connected to APRS-IS
+2026-02-18 01:41:15,784 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t082b10104 Station WX Pi
+2026-02-18 01:41:15,784 - INFO - Connection closed cleanly.
+2026-02-18 01:51:15,825 - INFO - Connecting to APRS-IS...
+2026-02-18 01:51:15,825 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-18 01:51:16,810 - INFO - Connected to ('84.232.6.113', 14580)
+2026-02-18 01:51:17,215 - INFO - Sending login information
+2026-02-18 01:51:17,603 - INFO - Login successful
+2026-02-18 01:51:17,603 - INFO - Connected to APRS-IS
+2026-02-18 01:51:17,603 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t082b10105 Station WX Pi
+2026-02-18 01:51:17,603 - INFO - Connection closed cleanly.
+2026-02-18 02:01:17,644 - INFO - Connecting to APRS-IS...
+2026-02-18 02:01:17,644 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-18 02:01:18,591 - INFO - Connected to ('94.130.143.160', 14580)
+2026-02-18 02:01:18,981 - INFO - Sending login information
+2026-02-18 02:01:19,361 - INFO - Login successful
+2026-02-18 02:01:19,361 - INFO - Connected to APRS-IS
+2026-02-18 02:01:19,361 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t082b10103 Station WX Pi
+2026-02-18 02:01:19,361 - INFO - Connection closed cleanly.
+2026-02-18 02:11:19,401 - INFO - Connecting to APRS-IS...
+2026-02-18 02:11:19,401 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-18 02:11:20,528 - INFO - Connected to ('150.107.73.187', 14580)
+2026-02-18 02:11:21,087 - INFO - Sending login information
+2026-02-18 02:11:21,645 - INFO - Login successful
+2026-02-18 02:11:21,646 - INFO - Connected to APRS-IS
+2026-02-18 02:11:21,646 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t082b10102 Station WX Pi
+2026-02-18 02:11:21,646 - INFO - Connection closed cleanly.
+2026-02-18 02:21:21,686 - INFO - Connecting to APRS-IS...
+2026-02-18 02:21:21,687 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-18 02:21:22,643 - INFO - Connected to ('195.190.142.207', 14580)
+2026-02-18 02:21:23,053 - INFO - Sending login information
+2026-02-18 02:21:23,443 - INFO - Login successful
+2026-02-18 02:21:23,443 - INFO - Connected to APRS-IS
+2026-02-18 02:21:23,443 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t082b10103 Station WX Pi
+2026-02-18 02:21:23,443 - INFO - Connection closed cleanly.
+2026-02-18 02:31:23,482 - INFO - Connecting to APRS-IS...
+2026-02-18 02:31:23,482 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-18 02:31:24,536 - INFO - Connected to ('91.210.59.134', 14580)
+2026-02-18 02:31:24,947 - INFO - Sending login information
+2026-02-18 02:31:25,336 - INFO - Login successful
+2026-02-18 02:31:25,336 - INFO - Connected to APRS-IS
+2026-02-18 02:31:25,336 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t082b10103 Station WX Pi
+2026-02-18 02:31:25,336 - INFO - Connection closed cleanly.
+2026-02-18 02:41:25,375 - INFO - Connecting to APRS-IS...
+2026-02-18 02:41:25,375 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-18 02:41:26,337 - INFO - Connected to ('116.202.18.253', 14580)
+2026-02-18 02:41:26,745 - INFO - Sending login information
+2026-02-18 02:41:27,124 - INFO - Login successful
+2026-02-18 02:41:27,125 - INFO - Connected to APRS-IS
+2026-02-18 02:41:27,125 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t082b10100 Station WX Pi
+2026-02-18 02:41:27,125 - INFO - Connection closed cleanly.
+2026-02-18 02:51:27,165 - INFO - Connecting to APRS-IS...
+2026-02-18 02:51:27,165 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-18 02:51:28,128 - INFO - Connected to ('91.210.59.134', 14580)
+2026-02-18 02:51:28,536 - INFO - Sending login information
+2026-02-18 02:51:28,926 - INFO - Login successful
+2026-02-18 02:51:28,926 - INFO - Connected to APRS-IS
+2026-02-18 02:51:28,927 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t081b10102 Station WX Pi
+2026-02-18 02:51:28,927 - INFO - Connection closed cleanly.
+2026-02-18 03:01:28,968 - INFO - Connecting to APRS-IS...
+2026-02-18 03:01:28,969 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-18 03:01:29,949 - INFO - Connected to ('93.93.118.156', 14580)
+2026-02-18 03:01:30,377 - INFO - Sending login information
+2026-02-18 03:01:30,777 - INFO - Login successful
+2026-02-18 03:01:30,777 - INFO - Connected to APRS-IS
+2026-02-18 03:01:30,777 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t081b10102 Station WX Pi
+2026-02-18 03:01:30,777 - INFO - Connection closed cleanly.
+2026-02-18 03:11:30,819 - INFO - Connecting to APRS-IS...
+2026-02-18 03:11:30,819 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-18 03:11:31,816 - INFO - Connected to ('109.207.104.90', 14580)
+2026-02-18 03:11:32,249 - INFO - Sending login information
+2026-02-18 03:11:32,667 - INFO - Login successful
+2026-02-18 03:11:32,667 - INFO - Connected to APRS-IS
+2026-02-18 03:11:32,668 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t081b10102 Station WX Pi
+2026-02-18 03:11:32,668 - INFO - Connection closed cleanly.
+2026-02-18 03:21:32,708 - INFO - Connecting to APRS-IS...
+2026-02-18 03:21:32,709 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-18 03:21:33,833 - INFO - Connected to ('175.45.183.111', 14580)
+2026-02-18 03:21:34,399 - INFO - Sending login information
+2026-02-18 03:21:34,958 - INFO - Login successful
+2026-02-18 03:21:34,958 - INFO - Connected to APRS-IS
+2026-02-18 03:21:34,959 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t082b10102 Station WX Pi
+2026-02-18 03:21:34,959 - INFO - Connection closed cleanly.
+2026-02-18 03:31:34,997 - INFO - Connecting to APRS-IS...
+2026-02-18 03:31:34,997 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-18 03:31:35,876 - INFO - Connected to ('142.44.211.133', 14580)
+2026-02-18 03:31:36,177 - INFO - Sending login information
+2026-02-18 03:31:36,463 - INFO - Login successful
+2026-02-18 03:31:36,463 - INFO - Connected to APRS-IS
+2026-02-18 03:31:36,464 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t081b10101 Station WX Pi
+2026-02-18 03:31:36,464 - INFO - Connection closed cleanly.
+2026-02-18 03:41:36,502 - INFO - Connecting to APRS-IS...
+2026-02-18 03:41:36,502 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-18 03:41:37,459 - INFO - Connected to ('93.93.118.156', 14580)
+2026-02-18 03:41:37,865 - INFO - Sending login information
+2026-02-18 03:41:38,256 - INFO - Login successful
+2026-02-18 03:41:38,256 - INFO - Connected to APRS-IS
+2026-02-18 03:41:38,257 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t081b10100 Station WX Pi
+2026-02-18 03:41:38,257 - INFO - Connection closed cleanly.
+2026-02-18 03:51:38,296 - INFO - Connecting to APRS-IS...
+2026-02-18 03:51:38,297 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-18 03:51:39,295 - INFO - Connected to ('185.43.207.219', 14580)
+2026-02-18 03:51:39,690 - INFO - Sending login information
+2026-02-18 03:51:40,079 - INFO - Login successful
+2026-02-18 03:51:40,079 - INFO - Connected to APRS-IS
+2026-02-18 03:51:40,079 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t081b10101 Station WX Pi
+2026-02-18 03:51:40,079 - INFO - Connection closed cleanly.
+2026-02-18 04:01:40,120 - INFO - Connecting to APRS-IS...
+2026-02-18 04:01:40,120 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-18 04:01:41,273 - INFO - Connected to ('175.45.183.111', 14580)
+2026-02-18 04:01:41,858 - INFO - Sending login information
+2026-02-18 04:01:42,419 - INFO - Login successful
+2026-02-18 04:01:42,419 - INFO - Connected to APRS-IS
+2026-02-18 04:01:42,427 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t081b10102 Station WX Pi
+2026-02-18 04:01:42,427 - INFO - Connection closed cleanly.
+2026-02-18 04:11:42,467 - INFO - Connecting to APRS-IS...
+2026-02-18 04:11:42,467 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-18 04:11:43,321 - INFO - Connected to ('142.44.211.133', 14580)
+2026-02-18 04:11:43,631 - INFO - Sending login information
+2026-02-18 04:11:43,918 - INFO - Login successful
+2026-02-18 04:11:43,918 - INFO - Connected to APRS-IS
+2026-02-18 04:11:43,918 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t080b10101 Station WX Pi
+2026-02-18 04:11:43,918 - INFO - Connection closed cleanly.
+2026-02-18 04:21:43,959 - INFO - Connecting to APRS-IS...
+2026-02-18 04:21:43,960 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-18 04:21:45,088 - INFO - Connected to ('175.45.183.111', 14580)
+2026-02-18 04:21:45,662 - INFO - Sending login information
+2026-02-18 04:21:46,226 - INFO - Login successful
+2026-02-18 04:21:46,226 - INFO - Connected to APRS-IS
+2026-02-18 04:21:46,226 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t080b10103 Station WX Pi
+2026-02-18 04:21:46,226 - INFO - Connection closed cleanly.
+2026-02-18 04:31:46,267 - INFO - Connecting to APRS-IS...
+2026-02-18 04:31:46,267 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-18 04:31:47,255 - INFO - Connected to ('146.83.63.90', 14580)
+2026-02-18 04:31:47,670 - INFO - Sending login information
+2026-02-18 04:31:48,073 - INFO - Login successful
+2026-02-18 04:31:48,074 - INFO - Connected to APRS-IS
+2026-02-18 04:31:48,074 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t080b10102 Station WX Pi
+2026-02-18 04:31:48,074 - INFO - Connection closed cleanly.
+2026-02-18 04:41:48,113 - INFO - Connecting to APRS-IS...
+2026-02-18 04:41:48,113 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-18 04:41:49,250 - INFO - Connected to ('109.72.122.50', 14580)
+2026-02-18 04:41:49,668 - INFO - Sending login information
+2026-02-18 04:41:50,070 - INFO - Login successful
+2026-02-18 04:41:50,070 - INFO - Connected to APRS-IS
+2026-02-18 04:41:50,070 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t079b10102 Station WX Pi
+2026-02-18 04:41:50,070 - INFO - Connection closed cleanly.
+2026-02-18 04:51:50,110 - INFO - Connecting to APRS-IS...
+2026-02-18 04:51:50,111 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-18 04:51:52,504 - INFO - Connected to ('195.190.142.207', 14580)
+2026-02-18 04:51:52,962 - INFO - Sending login information
+2026-02-18 04:51:53,419 - INFO - Login successful
+2026-02-18 04:51:53,419 - INFO - Connected to APRS-IS
+2026-02-18 04:51:53,419 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t079b10103 Station WX Pi
+2026-02-18 04:51:53,419 - INFO - Connection closed cleanly.
+2026-02-18 05:01:53,458 - INFO - Connecting to APRS-IS...
+2026-02-18 05:01:53,458 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-18 05:01:54,406 - INFO - Connected to ('84.232.6.113', 14580)
+2026-02-18 05:01:54,820 - INFO - Sending login information
+2026-02-18 05:01:55,206 - INFO - Login successful
+2026-02-18 05:01:55,206 - INFO - Connected to APRS-IS
+2026-02-18 05:01:55,206 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t079b10103 Station WX Pi
+2026-02-18 05:01:55,206 - INFO - Connection closed cleanly.
+2026-02-18 05:11:55,246 - INFO - Connecting to APRS-IS...
+2026-02-18 05:11:55,247 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-18 05:11:56,218 - INFO - Connected to ('93.93.118.156', 14580)
+2026-02-18 05:11:56,613 - INFO - Sending login information
+2026-02-18 05:11:57,005 - INFO - Login successful
+2026-02-18 05:11:57,005 - INFO - Connected to APRS-IS
+2026-02-18 05:11:57,005 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t079b10105 Station WX Pi
+2026-02-18 05:11:57,005 - INFO - Connection closed cleanly.
+2026-02-18 05:21:57,044 - INFO - Connecting to APRS-IS...
+2026-02-18 05:21:57,044 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-18 05:21:58,011 - INFO - Connected to ('85.188.1.129', 14580)
+2026-02-18 05:21:58,420 - INFO - Sending login information
+2026-02-18 05:21:58,819 - INFO - Login successful
+2026-02-18 05:21:58,820 - INFO - Connected to APRS-IS
+2026-02-18 05:21:58,820 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t079b10104 Station WX Pi
+2026-02-18 05:21:58,820 - INFO - Connection closed cleanly.
+2026-02-18 05:31:58,861 - INFO - Connecting to APRS-IS...
+2026-02-18 05:31:58,862 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-18 05:31:59,849 - INFO - Connected to ('146.83.63.90', 14580)
+2026-02-18 05:32:00,263 - INFO - Sending login information
+2026-02-18 05:32:00,668 - INFO - Login successful
+2026-02-18 05:32:00,668 - INFO - Connected to APRS-IS
+2026-02-18 05:32:00,669 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t078b10106 Station WX Pi
+2026-02-18 05:32:00,669 - INFO - Connection closed cleanly.
+2026-02-18 05:42:00,708 - INFO - Connecting to APRS-IS...
+2026-02-18 05:42:00,709 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-18 05:42:01,688 - INFO - Connected to ('85.188.1.129', 14580)
+2026-02-18 05:42:02,089 - INFO - Sending login information
+2026-02-18 05:42:02,488 - INFO - Login successful
+2026-02-18 05:42:02,488 - INFO - Connected to APRS-IS
+2026-02-18 05:42:02,488 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t078b10109 Station WX Pi
+2026-02-18 05:42:02,488 - INFO - Connection closed cleanly.
+2026-02-18 05:52:02,526 - INFO - Connecting to APRS-IS...
+2026-02-18 05:52:02,527 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-18 05:52:03,514 - INFO - Connected to ('109.207.104.90', 14580)
+2026-02-18 05:52:03,948 - INFO - Sending login information
+2026-02-18 05:52:04,367 - INFO - Login successful
+2026-02-18 05:52:04,367 - INFO - Connected to APRS-IS
+2026-02-18 05:52:04,368 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t078b10108 Station WX Pi
+2026-02-18 05:52:04,368 - INFO - Connection closed cleanly.
+2026-02-18 06:02:04,406 - INFO - Connecting to APRS-IS...
+2026-02-18 06:02:04,406 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-18 06:02:05,535 - INFO - Connected to ('150.107.73.187', 14580)
+2026-02-18 06:02:06,119 - INFO - Sending login information
+2026-02-18 06:02:06,678 - INFO - Login successful
+2026-02-18 06:02:06,678 - INFO - Connected to APRS-IS
+2026-02-18 06:02:06,678 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t078b10111 Station WX Pi
+2026-02-18 06:02:06,678 - INFO - Connection closed cleanly.
+2026-02-18 06:12:06,718 - INFO - Connecting to APRS-IS...
+2026-02-18 06:12:06,718 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-18 06:12:07,687 - INFO - Connected to ('109.72.122.50', 14580)
+2026-02-18 06:12:08,107 - INFO - Sending login information
+2026-02-18 06:12:08,510 - INFO - Login successful
+2026-02-18 06:12:08,510 - INFO - Connected to APRS-IS
+2026-02-18 06:12:08,510 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t078b10115 Station WX Pi
+2026-02-18 06:12:08,511 - INFO - Connection closed cleanly.
+2026-02-18 06:22:08,548 - INFO - Connecting to APRS-IS...
+2026-02-18 06:22:08,549 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-18 06:22:09,689 - INFO - Connected to ('175.45.183.111', 14580)
+2026-02-18 06:22:10,249 - INFO - Sending login information
+2026-02-18 06:22:10,809 - INFO - Login successful
+2026-02-18 06:22:10,809 - INFO - Connected to APRS-IS
+2026-02-18 06:22:10,809 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t077b10114 Station WX Pi
+2026-02-18 06:22:10,809 - INFO - Connection closed cleanly.
+2026-02-18 06:32:10,850 - INFO - Connecting to APRS-IS...
+2026-02-18 06:32:10,850 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-18 06:32:11,817 - INFO - Connected to ('195.225.116.247', 14580)
+2026-02-18 06:32:12,216 - INFO - Sending login information
+2026-02-18 06:32:12,600 - INFO - Login successful
+2026-02-18 06:32:12,600 - INFO - Connected to APRS-IS
+2026-02-18 06:32:12,601 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t077b10113 Station WX Pi
+2026-02-18 06:32:12,601 - INFO - Connection closed cleanly.
+2026-02-18 06:42:12,640 - INFO - Connecting to APRS-IS...
+2026-02-18 06:42:12,640 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-18 06:42:13,632 - INFO - Connected to ('185.43.207.219', 14580)
+2026-02-18 06:42:14,036 - INFO - Sending login information
+2026-02-18 06:42:14,427 - INFO - Login successful
+2026-02-18 06:42:14,427 - INFO - Connected to APRS-IS
+2026-02-18 06:42:14,427 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t078b10113 Station WX Pi
+2026-02-18 06:42:14,427 - INFO - Connection closed cleanly.
+2026-02-18 06:52:14,471 - INFO - Connecting to APRS-IS...
+2026-02-18 06:52:14,471 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-18 06:52:15,344 - INFO - Connected to ('155.138.131.1', 14580)
+2026-02-18 06:52:15,645 - INFO - Sending login information
+2026-02-18 06:52:15,926 - INFO - Login successful
+2026-02-18 06:52:15,926 - INFO - Connected to APRS-IS
+2026-02-18 06:52:15,926 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t077b10115 Station WX Pi
+2026-02-18 06:52:15,927 - INFO - Connection closed cleanly.
+2026-02-18 07:02:15,968 - INFO - Connecting to APRS-IS...
+2026-02-18 07:02:15,968 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-18 07:02:16,924 - INFO - Connected to ('84.232.6.113', 14580)
+2026-02-18 07:02:17,320 - INFO - Sending login information
+2026-02-18 07:02:17,710 - INFO - Login successful
+2026-02-18 07:02:17,710 - INFO - Connected to APRS-IS
+2026-02-18 07:02:17,710 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t077b10118 Station WX Pi
+2026-02-18 07:02:17,710 - INFO - Connection closed cleanly.
+2026-02-18 07:12:17,751 - INFO - Connecting to APRS-IS...
+2026-02-18 07:12:17,752 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-18 07:12:18,630 - INFO - Connected to ('142.44.211.133', 14580)
+2026-02-18 07:12:18,924 - INFO - Sending login information
+2026-02-18 07:12:19,211 - INFO - Login successful
+2026-02-18 07:12:19,212 - INFO - Connected to APRS-IS
+2026-02-18 07:12:19,212 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t077b10120 Station WX Pi
+2026-02-18 07:12:19,212 - INFO - Connection closed cleanly.
+2026-02-18 07:22:19,252 - INFO - Connecting to APRS-IS...
+2026-02-18 07:22:19,252 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-18 07:22:20,226 - INFO - Connected to ('85.188.1.129', 14580)
+2026-02-18 07:22:20,660 - INFO - Sending login information
+2026-02-18 07:22:21,066 - INFO - Login successful
+2026-02-18 07:22:21,066 - INFO - Connected to APRS-IS
+2026-02-18 07:22:21,067 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t077b10123 Station WX Pi
+2026-02-18 07:22:21,067 - INFO - Connection closed cleanly.
+2026-02-18 07:32:21,107 - INFO - Connecting to APRS-IS...
+2026-02-18 07:32:21,107 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-18 07:32:22,070 - INFO - Connected to ('195.190.142.207', 14580)
+2026-02-18 07:32:22,474 - INFO - Sending login information
+2026-02-18 07:32:22,865 - INFO - Login successful
+2026-02-18 07:32:22,865 - INFO - Connected to APRS-IS
+2026-02-18 07:32:22,865 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t077b10122 Station WX Pi
+2026-02-18 07:32:22,865 - INFO - Connection closed cleanly.
+2026-02-18 07:42:22,907 - INFO - Connecting to APRS-IS...
+2026-02-18 07:42:22,908 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-18 07:42:23,918 - INFO - Connected to ('93.93.118.156', 14580)
+2026-02-18 07:42:24,341 - INFO - Sending login information
+2026-02-18 07:42:24,743 - INFO - Login successful
+2026-02-18 07:42:24,743 - INFO - Connected to APRS-IS
+2026-02-18 07:42:24,744 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t077b10125 Station WX Pi
+2026-02-18 07:42:24,744 - INFO - Connection closed cleanly.
+2026-02-18 07:52:24,783 - INFO - Connecting to APRS-IS...
+2026-02-18 07:52:24,783 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-18 07:52:25,880 - INFO - Connected to ('94.130.143.160', 14580)
+2026-02-18 07:52:26,260 - INFO - Sending login information
+2026-02-18 07:52:26,639 - INFO - Login successful
+2026-02-18 07:52:26,639 - INFO - Connected to APRS-IS
+2026-02-18 07:52:26,639 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t077b10124 Station WX Pi
+2026-02-18 07:52:26,640 - INFO - Connection closed cleanly.
+2026-02-18 08:02:26,680 - INFO - Connecting to APRS-IS...
+2026-02-18 08:02:26,680 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-18 08:02:32,646 - INFO - Connected to ('85.90.180.26', 14580)
+2026-02-18 08:02:33,056 - INFO - Sending login information
+2026-02-18 08:02:33,451 - INFO - Login successful
+2026-02-18 08:02:33,451 - INFO - Connected to APRS-IS
+2026-02-18 08:02:33,451 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t077b10127 Station WX Pi
+2026-02-18 08:02:33,451 - INFO - Connection closed cleanly.
+2026-02-18 08:12:33,490 - INFO - Connecting to APRS-IS...
+2026-02-18 08:12:33,490 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-18 08:12:34,399 - INFO - Connected to ('142.44.211.133', 14580)
+2026-02-18 08:12:34,705 - INFO - Sending login information
+2026-02-18 08:12:35,009 - INFO - Login successful
+2026-02-18 08:12:35,009 - INFO - Connected to APRS-IS
+2026-02-18 08:12:35,009 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t077b10128 Station WX Pi
+2026-02-18 08:12:35,009 - INFO - Connection closed cleanly.
+2026-02-18 08:22:35,048 - INFO - Connecting to APRS-IS...
+2026-02-18 08:22:35,048 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-18 08:22:35,918 - INFO - Connected to ('142.44.211.133', 14580)
+2026-02-18 08:22:37,909 - INFO - Sending login information
+2026-02-18 08:22:38,216 - INFO - Login successful
+2026-02-18 08:22:38,216 - INFO - Connected to APRS-IS
+2026-02-18 08:22:38,216 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t077b10130 Station WX Pi
+2026-02-18 08:22:38,216 - INFO - Connection closed cleanly.
+2026-02-18 08:32:38,255 - INFO - Connecting to APRS-IS...
+2026-02-18 08:32:38,255 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-18 08:32:39,387 - INFO - Connected to ('175.45.183.111', 14580)
+2026-02-18 08:32:39,939 - INFO - Sending login information
+2026-02-18 08:32:40,490 - INFO - Login successful
+2026-02-18 08:32:40,490 - INFO - Connected to APRS-IS
+2026-02-18 08:32:40,490 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t077b10129 Station WX Pi
+2026-02-18 08:32:40,491 - INFO - Connection closed cleanly.
+2026-02-18 08:42:40,530 - INFO - Connecting to APRS-IS...
+2026-02-18 08:42:40,530 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-18 08:42:41,501 - INFO - Connected to ('185.162.236.244', 14580)
+2026-02-18 08:42:41,907 - INFO - Sending login information
+2026-02-18 08:42:42,310 - INFO - Login successful
+2026-02-18 08:42:42,310 - INFO - Connected to APRS-IS
+2026-02-18 08:42:42,310 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t077b10129 Station WX Pi
+2026-02-18 08:42:42,310 - INFO - Connection closed cleanly.
+2026-02-18 08:52:42,351 - INFO - Connecting to APRS-IS...
+2026-02-18 08:52:42,351 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-18 08:52:43,325 - INFO - Connected to ('84.232.6.113', 14580)
+2026-02-18 08:52:43,731 - INFO - Sending login information
+2026-02-18 08:52:44,118 - INFO - Login successful
+2026-02-18 08:52:44,119 - INFO - Connected to APRS-IS
+2026-02-18 08:52:44,119 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t079b10129 Station WX Pi
+2026-02-18 08:52:44,119 - INFO - Connection closed cleanly.
+2026-02-18 09:02:44,159 - INFO - Connecting to APRS-IS...
+2026-02-18 09:02:44,159 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-18 09:02:45,164 - INFO - Connected to ('109.207.104.90', 14580)
+2026-02-18 09:02:45,607 - INFO - Sending login information
+2026-02-18 09:02:46,028 - INFO - Login successful
+2026-02-18 09:02:46,028 - INFO - Connected to APRS-IS
+2026-02-18 09:02:46,029 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t080b10133 Station WX Pi
+2026-02-18 09:02:46,029 - INFO - Connection closed cleanly.
+2026-02-18 09:12:46,068 - INFO - Connecting to APRS-IS...
+2026-02-18 09:12:46,068 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-18 09:12:47,066 - INFO - Connected to ('84.232.6.113', 14580)
+2026-02-18 09:12:47,484 - INFO - Sending login information
+2026-02-18 09:12:47,891 - INFO - Login successful
+2026-02-18 09:12:47,891 - INFO - Connected to APRS-IS
+2026-02-18 09:12:47,891 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t080b10133 Station WX Pi
+2026-02-18 09:12:47,892 - INFO - Connection closed cleanly.
+2026-02-18 09:22:47,933 - INFO - Connecting to APRS-IS...
+2026-02-18 09:22:47,933 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-18 09:22:48,988 - INFO - Connected to ('146.83.63.90', 14580)
+2026-02-18 09:22:49,417 - INFO - Sending login information
+2026-02-18 09:22:49,822 - INFO - Login successful
+2026-02-18 09:22:49,822 - INFO - Connected to APRS-IS
+2026-02-18 09:22:49,823 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t081b10131 Station WX Pi
+2026-02-18 09:22:49,823 - INFO - Connection closed cleanly.
+2026-02-18 09:32:49,871 - INFO - Connecting to APRS-IS...
+2026-02-18 09:32:49,878 - INFO - Attempting connection to rotate.aprs2.net:14580
+2026-02-18 09:32:50,848 - INFO - Connected to ('192.146.137.137', 14580)
+2026-02-18 09:32:51,210 - INFO - Sending login information
+2026-02-18 09:32:51,568 - INFO - Login successful
+2026-02-18 09:32:51,568 - INFO - Connected to APRS-IS
+2026-02-18 09:32:51,575 - INFO - Packet sent successfully: VU24JD-13>APRS,TCPIP*:!1156.87N/07949.25E_.../...g...t081b10132 Station WX Pi
+2026-02-18 09:32:51,576 - INFO - Connection closed cleanly.
